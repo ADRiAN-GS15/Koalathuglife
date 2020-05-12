@@ -1,0 +1,38 @@
+body {
+    background-image: url(
+    https://metropolitanafm.com.br/wp-content/uploads/2016/01/001-capa.jpg);
+  background-size: auto 100vh;
+  font-family: Arial;
+    height: 100vh;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none; 
+  }
+  
+  .site-title {
+    color: red;
+  }
+  
+  .site-subtitle {
+    color: green;
+  }
+  
+  
+  
+  
+  
